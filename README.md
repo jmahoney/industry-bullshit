@@ -1,6 +1,6 @@
 # industry-bullshit
 
-Bullshit phrases used in the web industry. 
+Bullshit phrases used in the web industry. Think [Bullshytt](http://anathem.wikia.com/wiki/Bulshytt).
 
 ### Phrases, not single words
 
