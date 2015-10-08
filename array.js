@@ -43,5 +43,6 @@ module.exports = [
     'the one thing',
     'up the flag pole',
     'up the flagpole',
-    'synergy'
+    'synergy',
+    'cyber'
   ];
