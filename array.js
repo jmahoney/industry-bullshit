@@ -29,7 +29,7 @@ module.exports = [
     'take it to the next level',
     'smack it out of the park',
     'best in class',
-    'saling the platform',
+    'scaling the platform',
     'will it scale',
     'web scale',
     'velocity project',
@@ -39,5 +39,7 @@ module.exports = [
     'people experience',
     'foster innovation',
     'one simple trick',
-    'the one thing'
+    'the one thing',
+    'up the flag pole',
+    'up the flagpole'
   ];
