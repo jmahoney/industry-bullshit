@@ -1,0 +1,34 @@
+{
+  "name": "industry-bullshit",
+  "version": "0.1.0",
+  "description": "A collection of bullshit phrases used by the web industry",
+  "main": "index.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmahoney/industry-bullshit"
+  },
+  "keywords": [
+    "bullshit",
+    "corporate",
+    "corporatespeak"
+  ],
+  "author": {
+    "name": "Joe Mahoney",
+    "email": "jmahoney@iterative.co.nz"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jmahoney/industry-bullshit/issues"
+  },
+  "homepage": "https://github.com/jmahoney/industry-bullshit",
+  "devDependencies": {
+    "tape": "latest"
+  }
+}
