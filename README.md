@@ -4,13 +4,11 @@ Bullshit phrases used in the web industry.
 
 ### Phrases, not single words
 
-Bullshit needs context. While a lot of words might seem like bullshit in and of themselves, for this list to be any use we need that context. So "utilize"--a terrible word--is not bullshit but the phrase "going forward" certainly is.
+Bullshit needs context. While a lot of words might seem like bullshit in and of themselves, for this list to be any use we need that context. So "utilize"--a terrible word--is not bullshit but the phrase "going forward" certainly is. The only exceptions are "synergy" and "cyber". Screw those words.
 
 ### Contributing
 
 Pull requests welcome!
-
-
 
 ### Examples
 
