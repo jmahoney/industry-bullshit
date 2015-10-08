@@ -42,5 +42,6 @@ module.exports = [
     'one simple trick',
     'the one thing',
     'up the flag pole',
-    'up the flagpole'
+    'up the flagpole',
+    'synergy'
   ];
