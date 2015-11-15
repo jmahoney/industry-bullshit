@@ -7,6 +7,7 @@ module.exports = [
     'new vertical',
     'new verticals',
     'pane of glass',
+    'glass ceiling'
     'at the end of the day',
     'move the boat',
     'boat forward',
@@ -68,6 +69,7 @@ module.exports = [
     '110%',
     'take it to the next level',
     'smack it out of the park',
+    'smash it out of the park'
     'best in class',
     'scaling the platform',
     'will it scale',
@@ -83,5 +85,8 @@ module.exports = [
     'up the flag pole',
     'up the flagpole',
     'synergy',
-    'cyber'
+    'cyber',
+    'pushing the boat',
+    'end of the beginning',
+    'just getting started'
   ];
